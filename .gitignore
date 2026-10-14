@@ -42,3 +42,6 @@ Thumbs.db
 # Publish output
 publish/
 wwwroot/lib/
+
+# Saved API requests and responses
+request-history.json
